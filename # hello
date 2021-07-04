@@ -1,0 +1,34 @@
+# hello
+## _beatch_
+Я - **полужирный шрифт**
+
+
+1. Прости
+2. Прощай
+3. Привет
+
+
+- Прости
+- Прощай
+- Привет
+
+
+- Яйца
+- ~~Молоко~~
+
+
+![alt text](https://hugo-mini-course.netlify.app/img/yellowduck.png "Logo Title Text 1")
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+> Я мыслю, следовательно, я существую.
+
+
+**Забавный факт: Весь этот мини-курс по Hugo сделан с помощью Hugo и с помощью Markdown!
+
